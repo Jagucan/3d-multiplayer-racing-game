@@ -2,8 +2,6 @@
 
 Un juego de carreras 3D multijugador creado con **Unity** y **Netcode for GameObjects (MLAPI)**.
 
-![Gameplay Screenshot](src="https://i.postimg.cc/vmXybgKf/Captura-de-pantalla-2025-07-15-205337.png")
-
 <p align="center">
   <img src="https://i.postimg.cc/vmXybgKf/Captura-de-pantalla-2025-07-15-205337.png" title="source: menu-img" width = "500px" height = "400px"/>
 </p>
